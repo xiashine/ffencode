@@ -1,0 +1,53 @@
+
+This software and any associated documentation ("Software") is provided to 
+pursuant to the Agreement ("Agreement") you entered into with the Intertrust. 
+This Software may be used only in accordance with the terms of that Agreement. 
+IF YOU NOT ACCEPTED or EXECUTED THE AGREEMENT, DO NOT USE OR INSTALL THE 
+SOFTWARE AND SECURELY DESTROY OR RETURN THE SOFTWARE TO INTERTRUST. The 
+Software is provided "AS IS" and without any warranty, express, implied or 
+otherwise, regarding its accuracy or performance, or the fitness of the 
+information for a particular purpose. This Software is subject to United 
+States export control laws and regulations and you agree to comply with 
+such laws and regulations.
+
+Copyright © 2004 - 2014 Intertrust Cloud Services Corporation (ICSC). 
+All rights reserved. Third-party brands and names are the property of 
+their respective owners.
+
+This software includes software licensed from third parties. The following 
+third party software is provided to you under the Agreement you entered 
+into with ICSC. This 3rd party software includes:
+
+* Bento4 (www.bento4.com)
+
+This software includes an implementation of the AES Cipher, licensed by Brian Gladman
+---------------------------------------------------------------------------
+Copyright (c) 2002, Dr Brian Gladman <                 >, Worcester, UK.
+All rights reserved.
+
+LICENSE TERMS
+
+The free distribution and use of this software in both source and binary
+form is allowed (with or without changes) provided that:
+
+  1. distributions of this source code include the above copyright
+     notice, this list of conditions and the following disclaimer;
+
+  2. distributions in binary form include the above copyright
+     notice, this list of conditions and the following disclaimer
+     in the documentation and/or other associated materials;
+
+  3. the copyright holder's name is not used to endorse products
+     built using this software without specific written permission.
+
+ALTERNATIVELY, provided that this notice is retained in full, this product
+may be distributed under the terms of the GNU General Public License (GPL),
+in which case the provisions of the GPL apply INSTEAD OF those given above.
+
+DISCLAIMER
+
+This software is provided 'as is' with no explicit or implied warranties
+in respect of its properties, including, but not limited to, correctness
+and/or fitness for purpose.
+---------------------------------------------------------------------------
+
